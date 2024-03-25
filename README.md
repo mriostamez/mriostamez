@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mriostamez
 - 👀 I’m interested in software and web development.
-- 🌱 I’m currently learning C# and Blazor.
+- 🌱 I’m currently developing in Python, learning C# and Blazor.
 - 📫 You can reach me at mriostamez@gmail.com
 
 <!---
